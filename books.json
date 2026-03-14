@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Guliver's Travel",
+        "author": "Jonathan Swift",
+        "is_borrowed": true
+    },
+    {
+        "id": 2,
+        "title": "Haylazlar Okulu",
+        "author": "J.K. Rowling",
+        "is_borrowed": false
+    },
+    {
+        "id": 3,
+        "title": "Emre",
+        "author": "Emre",
+        "is_borrowed": false
+    }
+]
